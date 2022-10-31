@@ -1,8 +1,7 @@
 --> Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset
+
 --> Listing of attributes:
-
 - >50K, <=50K.
-
 - age: continuous.
 - workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 - fnlwgt: continuous.

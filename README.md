@@ -1,1 +1,2 @@
-Data:https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+# Makine Öğrenmesi 
+- Veri Seti:https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
